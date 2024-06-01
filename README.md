@@ -131,84 +131,108 @@ This course contains lots of challenges for Linux, each challenge is a small Lin
 |     118 | 🎯 Banishing Ghosts with Pattern-Based Killing      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271358'>Start Challenge</a> |
 |     119 | 🎯 Virtual Process Synchronization Mastery          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271432'>Start Challenge</a> |
 |     120 | 🎯 CosmosHub Linux Mastery                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271230'>Start Challenge</a> |
-|     121 | 🎯 Ming Palace Information Flow Management          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271398'>Start Challenge</a> |
-|     122 | 🎯 Cosmic Data Flow Mastery                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271356'>Start Challenge</a> |
-|     123 | 🎯 Magical Potion Mastery with Linux                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271368'>Start Challenge</a> |
-|     124 | 🎯 The Database Cannot Be Started                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/213984'>Start Challenge</a> |
-|     125 | 🎯 Find the Flags                                   | ★★☆          | <a target='_blank' href='https://labex.io/labs/7931'>Start Challenge</a>   |
-|     126 | 🎯 Analyzing Disk Usage                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7775'>Start Challenge</a>   |
-|     127 | 🎯 Mastering Text Manipulation                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7784'>Start Challenge</a>   |
-|     128 | 🎯 File Management Fundamentals                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7779'>Start Challenge</a>   |
-|     129 | 🎯 Find a File                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/17993'>Start Challenge</a>  |
-|     130 | 🎯 Add New User and Group                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/17987'>Start Challenge</a>  |
-|     131 | 🎯 Terminate Processes by Name and ID               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/31'>Start Challenge</a>     |
-|     132 | 🎯 Find File Location                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/1505'>Start Challenge</a>   |
-|     133 | 🎯 Analyze Historical Commands                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/17988'>Start Challenge</a>  |
-|     134 | 🎯 Group of Linux                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8266'>Start Challenge</a>   |
-|     135 | 🎯 Display Host Information                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/50163'>Start Challenge</a>  |
-|     136 | 🎯 Backup Logs In Linux                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/1654'>Start Challenge</a>   |
-|     137 | 🎯 System Information Displaying Script             | ★★☆          | <a target='_blank' href='https://labex.io/labs/18281'>Start Challenge</a>  |
-|     138 | 🎯 Bash Hello World Program                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211447'>Start Challenge</a> |
-|     139 | 🎯 Delete Empty Lines                               | ★★☆          | <a target='_blank' href='https://labex.io/labs/18868'>Start Challenge</a>  |
-|     140 | 🎯 Downloading Files with Curl and Wget             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28'>Start Challenge</a>     |
-|     141 | 🎯 Random Password Generator Using Shell Commands   | ★★☆          | <a target='_blank' href='https://labex.io/labs/18299'>Start Challenge</a>  |
-|     142 | 🎯 Deleting Files with Bash                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211470'>Start Challenge</a> |
-|     143 | 🎯 Append Content to File                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211471'>Start Challenge</a> |
-|     144 | 🎯 Convert Strings with Shell Script                | ★★☆          | <a target='_blank' href='https://labex.io/labs/18283'>Start Challenge</a>  |
-|     145 | 🎯 Hadoop Galactic Append Operation                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272037'>Start Challenge</a> |
-|     146 | 🎯 Using Echo Command Options                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211448'>Start Challenge</a> |
-|     147 | 🎯 Backup System Log                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/17989'>Start Challenge</a>  |
-|     148 | 🎯 Read File Line by Line                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211469'>Start Challenge</a> |
-|     149 | 🎯 Using Wait Command in Bash                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211474'>Start Challenge</a> |
-|     150 | 🎯 Random Line Deletion in C Files                  | ★★☆          | <a target='_blank' href='https://labex.io/labs/18872'>Start Challenge</a>  |
-|     151 | 🎯 Adding Two Numbers                               | ★★☆          | <a target='_blank' href='https://labex.io/labs/18319'>Start Challenge</a>  |
-|     152 | 🎯 Count System Users Within ID Range               | ★★☆          | <a target='_blank' href='https://labex.io/labs/18279'>Start Challenge</a>  |
-|     153 | 🎯 Bash Script for File Information                 | ★★☆          | <a target='_blank' href='https://labex.io/labs/18311'>Start Challenge</a>  |
-|     154 | 🎯 Lucky Number Prize Checker                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211458'>Start Challenge</a> |
-|     155 | 🎯 Print File Lines Using Bash Commands             | ★★☆          | <a target='_blank' href='https://labex.io/labs/18301'>Start Challenge</a>  |
-|     156 | 🎯 Search User in System Configuration              | ★★☆          | <a target='_blank' href='https://labex.io/labs/18277'>Start Challenge</a>  |
-|     157 | 🎯 Display Filesystem Free Space Utilization        | ★★☆          | <a target='_blank' href='https://labex.io/labs/18309'>Start Challenge</a>  |
-|     158 | 🎯 Count Executable Files in PATH Directories       | ★★☆          | <a target='_blank' href='https://labex.io/labs/18305'>Start Challenge</a>  |
-|     159 | 🎯 Create a Command-Line Calculator Script          | ★★☆          | <a target='_blank' href='https://labex.io/labs/18863'>Start Challenge</a>  |
-|     160 | 🎯 Write Shell Script to List Directory Contents    | ★★☆          | <a target='_blank' href='https://labex.io/labs/18315'>Start Challenge</a>  |
-|     161 | 🎯 Greet User Based on Time                         | ★★☆          | <a target='_blank' href='https://labex.io/labs/18287'>Start Challenge</a>  |
-|     162 | 🎯 Cancel File Change                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7776'>Start Challenge</a>   |
-|     163 | 🎯 Bash Script with OR Logic                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211456'>Start Challenge</a> |
-|     164 | 🎯 Bash Script Using For Loop                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211452'>Start Challenge</a> |
-|     165 | 🎯 Check Mounted File System Usage                  | ★★☆          | <a target='_blank' href='https://labex.io/labs/18275'>Start Challenge</a>  |
-|     166 | 🎯 Capture User Input Script                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211453'>Start Challenge</a> |
-|     167 | 🎯 Command-Line Argument Comparison Script          | ★★☆          | <a target='_blank' href='https://labex.io/labs/18317'>Start Challenge</a>  |
-|     168 | 🎯 Long and Short                                   | ★★☆          | <a target='_blank' href='https://labex.io/labs/18307'>Start Challenge</a>  |
-|     169 | 🎯 Bubble Sort Command-Line Sorting                 | ★★☆          | <a target='_blank' href='https://labex.io/labs/18285'>Start Challenge</a>  |
-|     170 | 🎯 Create Directory with Bash Script                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211467'>Start Challenge</a> |
-|     171 | 🎯 Reading Command Line Arguments                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211460'>Start Challenge</a> |
-|     172 | 🎯 Pausing Command Syntax                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211475'>Start Challenge</a> |
-|     173 | 🎯 Extracting Data with Regular Expressions         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/17991'>Start Challenge</a>  |
-|     174 | 🎯 Bash Script Lucky Number Checker                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211457'>Start Challenge</a> |
-|     175 | 🎯 Git Fundamentals: Add, Commit, Status, Diff      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7785'>Start Challenge</a>   |
-|     176 | 🎯 Right Angle Triangle Pattern                     | ★★☆          | <a target='_blank' href='https://labex.io/labs/18289'>Start Challenge</a>  |
-|     177 | 🎯 Print Equilateral Triangle Pattern               | ★★☆          | <a target='_blank' href='https://labex.io/labs/18303'>Start Challenge</a>  |
-|     178 | 🎯 Check Directory Existence Script                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211468'>Start Challenge</a> |
-|     179 | 🎯 Rectangle Area Calculator Script                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211450'>Start Challenge</a> |
-|     180 | 🎯 Username and Password Validation                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211455'>Start Challenge</a> |
-|     181 | 🎯 Generate Fibonacci Sequence in Shell             | ★★☆          | <a target='_blank' href='https://labex.io/labs/18313'>Start Challenge</a>  |
-|     182 | 🎯 Determine String Lengths in Shell Script         | ★★☆          | <a target='_blank' href='https://labex.io/labs/18866'>Start Challenge</a>  |
-|     183 | 🎯 Reverse Number Using Shell Script                | ★★☆          | <a target='_blank' href='https://labex.io/labs/18291'>Start Challenge</a>  |
-|     184 | 🎯 Recursive Function in Bash Scripting             | ★★☆          | <a target='_blank' href='https://labex.io/labs/18293'>Start Challenge</a>  |
-|     185 | 🎯 Reading Command Line Arguments                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211459'>Start Challenge</a> |
-|     186 | 🎯 Check File Existence                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211472'>Start Challenge</a> |
-|     187 | 🎯 Number Digit Checker                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211454'>Start Challenge</a> |
-|     188 | 🎯 Add Two Numbers                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211463'>Start Challenge</a> |
-|     189 | 🎯 Parse Current Date and Time                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211473'>Start Challenge</a> |
-|     190 | 🎯 Calculate Rectangle Area Function                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211465'>Start Challenge</a> |
-|     191 | 🎯 Passing String Value in Bash                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211466'>Start Challenge</a> |
-|     192 | 🎯 Creating Bash Function                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211464'>Start Challenge</a> |
-|     193 | 🎯 Conda Environment Management                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8002'>Start Challenge</a>   |
-|     194 | 🎯 Initialize Git Project                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7782'>Start Challenge</a>   |
-|     195 | 🎯 Concatenating String Variables                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211461'>Start Challenge</a> |
-|     196 | 🎯 Substring Extraction in Bash                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211462'>Start Challenge</a> |
-|     197 | 🎯 Bash Scripting Comments Usage                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211449'>Start Challenge</a> |
-|     198 | 🎯 Using While Loop in Bash                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211451'>Start Challenge</a> |
+|     121 | 🎯 Configuring SSH Certificates for Secure Login    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301460'>Start Challenge</a> |
+|     122 | 🎯 Ming Palace Information Flow Management          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271398'>Start Challenge</a> |
+|     123 | 🎯 Cosmic Data Flow Mastery                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271356'>Start Challenge</a> |
+|     124 | 🎯 Magical Potion Mastery with Linux                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271368'>Start Challenge</a> |
+|     125 | 🎯 New Colleague System Account Setup               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301482'>Start Challenge</a> |
+|     126 | 🎯 Find the Flags                                   | ★★☆          | <a target='_blank' href='https://labex.io/labs/7931'>Start Challenge</a>   |
+|     127 | 🎯 The Database Cannot Be Started                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/213984'>Start Challenge</a> |
+|     128 | 🎯 Analyzing Disk Usage                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7775'>Start Challenge</a>   |
+|     129 | 🎯 Mastering Text Manipulation                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7784'>Start Challenge</a>   |
+|     130 | 🎯 File Management Fundamentals                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7779'>Start Challenge</a>   |
+|     131 | 🎯 Restore Access to Website                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301486'>Start Challenge</a> |
+|     132 | 🎯 Installing and Configuring a Mail Server         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299450'>Start Challenge</a> |
+|     133 | 🎯 Terminate Processes by Name and ID               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/31'>Start Challenge</a>     |
+|     134 | 🎯 Samba File Sharing on Linux                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301490'>Start Challenge</a> |
+|     135 | 🎯 Find File Location                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/1505'>Start Challenge</a>   |
+|     136 | 🎯 Changing the Error Log Location                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301293'>Start Challenge</a> |
+|     137 | 🎯 Searching for Specific Files                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301488'>Start Challenge</a> |
+|     138 | 🎯 Group of Linux                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8266'>Start Challenge</a>   |
+|     139 | 🎯 Nginx Log Analysis and Optimization              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301476'>Start Challenge</a> |
+|     140 | 🎯 Automated Daily System Log Backup                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301478'>Start Challenge</a> |
+|     141 | 🎯 Installing a Git Server                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299595'>Start Challenge</a> |
+|     142 | 🎯 Display Host Information                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/50163'>Start Challenge</a>  |
+|     143 | 🎯 Extracting Link Information From Text            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301470'>Start Challenge</a> |
+|     144 | 🎯 Backup Logs In Linux                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/1654'>Start Challenge</a>   |
+|     145 | 🎯 System Information Displaying Script             | ★★☆          | <a target='_blank' href='https://labex.io/labs/18281'>Start Challenge</a>  |
+|     146 | 🎯 Linux Server Information Retrieval               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301474'>Start Challenge</a> |
+|     147 | 🎯 Bash Hello World Program                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211447'>Start Challenge</a> |
+|     148 | 🎯 Delete Empty Lines                               | ★★☆          | <a target='_blank' href='https://labex.io/labs/18868'>Start Challenge</a>  |
+|     149 | 🎯 Copy Large Files with Preserved Structure        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301464'>Start Challenge</a> |
+|     150 | 🎯 Downloading Files with Curl and Wget             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28'>Start Challenge</a>     |
+|     151 | 🎯 Random Password Generator Using Shell Commands   | ★★☆          | <a target='_blank' href='https://labex.io/labs/18299'>Start Challenge</a>  |
+|     152 | 🎯 Build a Task Scheduler Using Bash                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299448'>Start Challenge</a> |
+|     153 | 🎯 Implement Custom Trash-Enabled Command           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301456'>Start Challenge</a> |
+|     154 | 🎯 Build a Linux System Monitor Using Bash          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299447'>Start Challenge</a> |
+|     155 | 🎯 Deleting Files with Bash                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211470'>Start Challenge</a> |
+|     156 | 🎯 Customizing Linux File Listing                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301466'>Start Challenge</a> |
+|     157 | 🎯 Extracting Information From Text                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301468'>Start Challenge</a> |
+|     158 | 🎯 Append Content to File                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211471'>Start Challenge</a> |
+|     159 | 🎯 Users and Groups Creation and Deletion Batch     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301458'>Start Challenge</a> |
+|     160 | 🎯 Convert Strings with Shell Script                | ★★☆          | <a target='_blank' href='https://labex.io/labs/18283'>Start Challenge</a>  |
+|     161 | 🎯 Hadoop Galactic Append Operation                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272037'>Start Challenge</a> |
+|     162 | 🎯 Using Echo Command Options                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211448'>Start Challenge</a> |
+|     163 | 🎯 Deploying a Simple TensorFlow Model              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299445'>Start Challenge</a> |
+|     164 | 🎯 Creating a Typing Game Using Bash                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299449'>Start Challenge</a> |
+|     165 | 🎯 Get Program That Satisfies the Condition         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301472'>Start Challenge</a> |
+|     166 | 🎯 Collect Files From Specified Time                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301462'>Start Challenge</a> |
+|     167 | 🎯 Read File Line by Line                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211469'>Start Challenge</a> |
+|     168 | 🎯 Using Wait Command in Bash                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211474'>Start Challenge</a> |
+|     169 | 🎯 Random Line Deletion in C Files                  | ★★☆          | <a target='_blank' href='https://labex.io/labs/18872'>Start Challenge</a>  |
+|     170 | 🎯 Adding Two Numbers                               | ★★☆          | <a target='_blank' href='https://labex.io/labs/18319'>Start Challenge</a>  |
+|     171 | 🎯 Count System Users Within ID Range               | ★★☆          | <a target='_blank' href='https://labex.io/labs/18279'>Start Challenge</a>  |
+|     172 | 🎯 Bash Script for File Information                 | ★★☆          | <a target='_blank' href='https://labex.io/labs/18311'>Start Challenge</a>  |
+|     173 | 🎯 Lucky Number Prize Checker                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211458'>Start Challenge</a> |
+|     174 | 🎯 Print File Lines Using Bash Commands             | ★★☆          | <a target='_blank' href='https://labex.io/labs/18301'>Start Challenge</a>  |
+|     175 | 🎯 Search User in System Configuration              | ★★☆          | <a target='_blank' href='https://labex.io/labs/18277'>Start Challenge</a>  |
+|     176 | 🎯 Display Filesystem Free Space Utilization        | ★★☆          | <a target='_blank' href='https://labex.io/labs/18309'>Start Challenge</a>  |
+|     177 | 🎯 Count Executable Files in PATH Directories       | ★★☆          | <a target='_blank' href='https://labex.io/labs/18305'>Start Challenge</a>  |
+|     178 | 🎯 Create a Command-Line Calculator Script          | ★★☆          | <a target='_blank' href='https://labex.io/labs/18863'>Start Challenge</a>  |
+|     179 | 🎯 Write Shell Script to List Directory Contents    | ★★☆          | <a target='_blank' href='https://labex.io/labs/18315'>Start Challenge</a>  |
+|     180 | 🎯 Greet User Based on Time                         | ★★☆          | <a target='_blank' href='https://labex.io/labs/18287'>Start Challenge</a>  |
+|     181 | 🎯 Cancel File Change                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7776'>Start Challenge</a>   |
+|     182 | 🎯 Bash Script with OR Logic                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211456'>Start Challenge</a> |
+|     183 | 🎯 Bash Script Using For Loop                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211452'>Start Challenge</a> |
+|     184 | 🎯 Check Mounted File System Usage                  | ★★☆          | <a target='_blank' href='https://labex.io/labs/18275'>Start Challenge</a>  |
+|     185 | 🎯 Network Data Packet Statistics                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301480'>Start Challenge</a> |
+|     186 | 🎯 Capture User Input Script                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211453'>Start Challenge</a> |
+|     187 | 🎯 Command-Line Argument Comparison Script          | ★★☆          | <a target='_blank' href='https://labex.io/labs/18317'>Start Challenge</a>  |
+|     188 | 🎯 Long and Short                                   | ★★☆          | <a target='_blank' href='https://labex.io/labs/18307'>Start Challenge</a>  |
+|     189 | 🎯 Bubble Sort Command-Line Sorting                 | ★★☆          | <a target='_blank' href='https://labex.io/labs/18285'>Start Challenge</a>  |
+|     190 | 🎯 Random Password Generator Development            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301484'>Start Challenge</a> |
+|     191 | 🎯 Create Directory with Bash Script                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211467'>Start Challenge</a> |
+|     192 | 🎯 Reading Command Line Arguments                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211460'>Start Challenge</a> |
+|     193 | 🎯 Pausing Command Syntax                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211475'>Start Challenge</a> |
+|     194 | 🎯 Bash Script Lucky Number Checker                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211457'>Start Challenge</a> |
+|     195 | 🎯 Git Fundamentals: Add, Commit, Status, Diff      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7785'>Start Challenge</a>   |
+|     196 | 🎯 Right Angle Triangle Pattern                     | ★★☆          | <a target='_blank' href='https://labex.io/labs/18289'>Start Challenge</a>  |
+|     197 | 🎯 Chess Board in Terminal                          | ★★☆          | <a target='_blank' href='https://labex.io/labs/299819'>Start Challenge</a> |
+|     198 | 🎯 Print Equilateral Triangle Pattern               | ★★☆          | <a target='_blank' href='https://labex.io/labs/18303'>Start Challenge</a>  |
+|     199 | 🎯 Check Directory Existence Script                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211468'>Start Challenge</a> |
+|     200 | 🎯 Rectangle Area Calculator Script                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211450'>Start Challenge</a> |
+|     201 | 🎯 Username and Password Validation                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211455'>Start Challenge</a> |
+|     202 | 🎯 Generate Fibonacci Sequence in Shell             | ★★☆          | <a target='_blank' href='https://labex.io/labs/18313'>Start Challenge</a>  |
+|     203 | 🎯 Determine String Lengths in Shell Script         | ★★☆          | <a target='_blank' href='https://labex.io/labs/18866'>Start Challenge</a>  |
+|     204 | 🎯 Reverse Number Using Shell Script                | ★★☆          | <a target='_blank' href='https://labex.io/labs/18291'>Start Challenge</a>  |
+|     205 | 🎯 Recursive Function in Bash Scripting             | ★★☆          | <a target='_blank' href='https://labex.io/labs/18293'>Start Challenge</a>  |
+|     206 | 🎯 Reading Command Line Arguments                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211459'>Start Challenge</a> |
+|     207 | 🎯 Check File Existence                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211472'>Start Challenge</a> |
+|     208 | 🎯 Number Digit Checker                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211454'>Start Challenge</a> |
+|     209 | 🎯 Add Two Numbers                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211463'>Start Challenge</a> |
+|     210 | 🎯 Parse Current Date and Time                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211473'>Start Challenge</a> |
+|     211 | 🎯 Calculate Rectangle Area Function                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211465'>Start Challenge</a> |
+|     212 | 🎯 Passing String Value in Bash                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211466'>Start Challenge</a> |
+|     213 | 🎯 Creating Bash Function                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211464'>Start Challenge</a> |
+|     214 | 🎯 Conda Environment Management                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8002'>Start Challenge</a>   |
+|     215 | 🎯 Initialize Git Project                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7782'>Start Challenge</a>   |
+|     216 | 🎯 Concatenating String Variables                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211461'>Start Challenge</a> |
+|     217 | 🎯 Bash Scripting Comments Usage                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211449'>Start Challenge</a> |
+|     218 | 🎯 Substring Extraction in Bash                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211462'>Start Challenge</a> |
+|     219 | 🎯 Using While Loop in Bash                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211451'>Start Challenge</a> |
+|     220 | 🎯 Deploying MobileNet With TensorFlow.js and Flask | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299451'>Start Challenge</a> |
+|     221 | 🎯 Reverse Shell to Control Multiple Targets        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299507'>Start Challenge</a> |
+|     222 | 🎯 Build URL Shortener with Flask MySQL             | ★★★          | <a target='_blank' href='https://labex.io/labs/299511'>Start Challenge</a> |
 
 ## More
 
