@@ -199,7 +199,7 @@ This course contains lots of challenges for Linux, each challenge is a small Lin
 |     186 | 🎯 Passing String Value in Bash                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211466'>Start Challenge</a> |
 |     187 | 🎯 Creating Bash Function                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211464'>Start Challenge</a> |
 |     188 | 🎯 Conda Environment Management                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8002'>Start Challenge</a>   |
-|     189 | 🎯 Initialize Git Project (Challenge)               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7782'>Start Challenge</a>   |
+|     189 | 🎯 Initialize Git Project (Challenge)               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385166'>Start Challenge</a> |
 |     190 | 🎯 Concatenating String Variables                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211461'>Start Challenge</a> |
 |     191 | 🎯 Bash Scripting Comments Usage                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211449'>Start Challenge</a> |
 |     192 | 🎯 Substring Extraction in Bash                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211462'>Start Challenge</a> |
