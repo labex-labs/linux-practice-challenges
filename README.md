@@ -1,6 +1,8 @@
 # Linux Practice Challenges
 
-![Linux Practice Challenges](https://cover-creator.appbot.io/linux-practice-challenges.png)
+[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
+
+> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
 
 This course contains lots of challenges for Linux, each challenge is a small Linux project with detailed instructions and solutions. You can practice your Linux skills by solving these challenges, improve your problem-solving skills, and learn how to write clean and efficient code.
 
