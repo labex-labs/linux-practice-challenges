@@ -170,7 +170,7 @@ In this course, you will find a collection of Linux practice challenges that wil
 |     151 | 🎯  Cosmic Data Flow Mastery                         | Beginner     | <a target='_blank' href='https://labex.io/labs/linux-cosmic-data-flow-mastery-271356'>Start Challenge</a>                           |
 |     152 | 🎯  Terminate Processes by Name and ID               | Intermediate | <a target='_blank' href='https://labex.io/tutorials/linux-terminate-processes-by-name-and-id-31'>Start Challenge</a>                |
 |     153 | 🎯  Adding Two Numbers                               | Beginner     | <a target='_blank' href='https://labex.io/labs/shell-adding-two-numbers-18319'>Start Challenge</a>                                  |
-|     154 | 🎯  Check Mounted File System Usage                  | Intermediate | <a target='_blank' href='https://labex.io/labs/shell-check-mounted-file-system-usage-18275'>Start Challenge</a>                     |
+|     154 | 🎯 🆓 Check Mounted File System Usage                | Intermediate | <a target='_blank' href='https://labex.io/tutorials/shell-check-mounted-file-system-usage-18275'>Start Challenge</a>                |
 |     155 | 🎯  Generate Fibonacci Sequence in Shell             | Beginner     | <a target='_blank' href='https://labex.io/labs/shell-generate-fibonacci-sequence-in-shell-18313'>Start Challenge</a>                |
 |     156 | 🎯  Random Line Deletion in C Files                  | Beginner     | <a target='_blank' href='https://labex.io/labs/shell-random-line-deletion-in-c-files-18872'>Start Challenge</a>                     |
 
